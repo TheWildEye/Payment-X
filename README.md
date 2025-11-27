@@ -29,13 +29,21 @@ Clean and organized project structure
 project/
 
 │
+
 ├── train_payment_fraud_model.py # Script to train the ML model
+
 ├── predict_fraud.py # Script to run predictions
+
 │
+
 ├── dataset_payments.csv # Verified dataset
+
 ├── fraud_rf_model.joblib # Saved Random Forest model
+
 ├── fraud_label_encoder.joblib # Label encoder for output labels
+
 │
+
 └── README.md # Project documentation
 
 📦Dataset
